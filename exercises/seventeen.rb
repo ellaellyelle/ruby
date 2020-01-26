@@ -1,0 +1,1 @@
+# They are the same because the two symbols are just different ways to input symbols and hashes don't have to be in the same order
